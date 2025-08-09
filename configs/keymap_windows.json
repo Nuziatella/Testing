@@ -1,0 +1,14 @@
+{
+"UP": "up",
+"DOWN": "down",
+"LEFT": "left",
+"RIGHT": "right",
+"A": "x",
+"B": "z",
+"X": "s",
+"Y": "a",
+"L": "q",
+"R": "w",
+"START": "return",
+"SELECT": "rshift"
+}

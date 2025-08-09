@@ -1,2 +1,2 @@
-# Testing
-
+Pokemon Platinum RL with melonDS (Windows)
+This project trains a DQN agent to interact with Pokémon Platinum via the melonDS emulator on Windows, using keyboard input and top-screen capture. Reward heuristics are configurable at runtime.
